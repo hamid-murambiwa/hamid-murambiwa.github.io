@@ -203,13 +203,11 @@
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
     html,
     body {
         margin: 0;
         padding: 0;
-        width: 259px;
-        height: 556px;
     }
     .nav-container {
         margin-top: 20px;
@@ -349,7 +347,7 @@
         font-size: 17px;
     }
     .location-container {
-        margin-top: 10%;
+        margin-top: 5%;
         width: 100%;
         height: 40px;
         display: flex;
